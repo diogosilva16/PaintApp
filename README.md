@@ -1,2 +1,2 @@
 # PaintApp
-App made for an university course, allowing the user to paint geometric figures.
+App made for an university course for Java learning purposes, allowing the user to paint geometric figures.
